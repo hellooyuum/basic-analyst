@@ -1,7 +1,7 @@
 # basic-analyst
 data analyst portfolio
 
-- 👋 Hi, I’m @hellooyuum
+- 👋 Hi, I’m M. Qoyyum Syah Ilahi
 - 👀 I’m interested in data analyst and data scientist
 - 🌱 I’m currently learning sql and phyton
 - 💞️ I’m looking to collaborate on data analyst and data scientist
